@@ -155,13 +155,13 @@ body{
  #tin li{
   float:left;
   display: block;
-  
+  padding:6px;
  }
  .right{
   float:right!important;
   margin-right:20px;
  }
-
+ 
  .futer p{
   margin-left: 50px;
   margin-top:10px;
