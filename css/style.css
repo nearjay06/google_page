@@ -32,6 +32,8 @@ body{
 
  footer{
   margin-top: 15%;
+  border-top:1px solid grey;
+  color:gray;
      
  }
 
@@ -46,9 +48,7 @@ body{
 
  .fit2{
   float:left;
-  padding-left:-2px;
   margin-top:2%;
-   
   
   }
 
@@ -59,7 +59,6 @@ body{
   padding:2px 4px 2px 4px;
   list-style: none;
   text-decoration:none;
-  color:black;
   
  }
 
@@ -85,7 +84,7 @@ body{
  }
  .ton button {
   background-color:#D8D8D8;
-  padding:2px 6px 2px 6px;
+  padding:5px 8px 5px 8px;
   font-family:Arial;
   color:#191A1A;
   margin-top:-8%;
@@ -139,8 +138,13 @@ body{
   font-size: 15px;
   border-radius:6px;
   margin-left: 350px;
-  height:20px;
-  border: 1px solid gray 
+  height:10px;
+  border: -1px solid gray 
+ }
+
+ form{
+  background-color: gainsboro;
+
  }
 
  .tile,.tile4{
